@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Raghinisuri
+-📫 i am pursuing btech in computer science
+- How to reach me ragsuri1@gmail.com
