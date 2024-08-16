@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @Raghinisuri
--📫 i am pursuing btech in computer science
+-📫 i am pursuing btech in mechanical and automation
 - How to reach me ragsuri1@gmail.com
+- java full stack development
